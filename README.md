@@ -33,7 +33,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Create a token with the `gist` and `repo` scope and copy it. (https://github.com/settings/tokens/new)
    > enable `repo` scope seems **DANGEROUS**<br/>
    > but this GitHub Action only accesses your commit timestamp in repository you contributed.
-
+<!-- 
 ### Project setup
 
 1. Fork this repo
@@ -46,4 +46,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
-1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile) -->
